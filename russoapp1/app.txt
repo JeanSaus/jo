@@ -1,0 +1,7 @@
+
+Git allows team and developer to collaborate in the same project.
+
+You can modify and share the project.
+
+Keep permanent record 
+ 
